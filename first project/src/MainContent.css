@@ -1,0 +1,34 @@
+
+
+.travel-main {
+    padding: 3rem;
+}
+.travel-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.travel-image {
+    width: 10rem;
+    height: 15rem;
+    border-radius: 5px;
+}
+
+.travel-location {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+.location-icon {
+ color: #f55a5a;
+}
+.location-header {
+    font-weight: bold;
+}
+.google-maps-link  {
+  color: #aaa;
+}
+.google-maps-link:hover{
+    color: #f55a5a;
+}
