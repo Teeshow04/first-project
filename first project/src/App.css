@@ -7,9 +7,10 @@ body {
   font-family: "inter";
   color: black;
   overflow: hidden;
-  /* height: 100vh; */
+  height: 100vh;
   padding: 0;
   margin: 0;
+  overflow-y: scroll;
 }
 
 .header{
