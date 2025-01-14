@@ -13,7 +13,7 @@ export default function MainContent() {
                 <div className='travel-info'>
                     <div className='travel-location'>
                         <div className='location-info'>
-                            <FaMapMarkerAlt className='location-icon'/>
+                            <FaMapMarkerAlt className='location-icon' />
                             <span className='location-country'>JAPAN</span>
                         </div>
 
@@ -35,7 +35,7 @@ export default function MainContent() {
                 <div className='travel-info'>
                     <div className='travel-location'>
                         <div className='location-info'>
-                            <FaMapMarkerAlt className='location-icon'/>
+                            <FaMapMarkerAlt className='location-icon' />
                             <span className='location-country'>AUSTRALIA</span>
                         </div>
 
@@ -57,7 +57,7 @@ export default function MainContent() {
                 <div className='travel-info'>
                     <div className='travel-location'>
                         <div className='location-info'>
-                            <FaMapMarkerAlt className='location-icon'/>
+                            <FaMapMarkerAlt className='location-icon' />
                             <span className='location-country'>NORWAY</span>
                         </div>
 
